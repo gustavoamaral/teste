@@ -1,0 +1,36 @@
+#EXTM3U url-tvg = “http://epg.bz”
+#EXTINF:-1 group-title="FREE", BAND
+https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-1 group-title="FREE", BAND NEWS
+http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FREE", BAND SPORTS
+http://209.222.97.92:16484
+#EXTINF:-1 group-title="FREE", CNN BRASIL
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 group-title="FREE", COMBATE
+http://209.222.97.92:16493
+#EXTINF:-1 group-title="FREE", GLOBO MG
+http://209.222.97.92:16263
+#EXTINF:-1 group-title="FREE", GLOBO RJ
+http://209.222.97.92:16271
+#EXTINF:-1 group-title="FREE", GLOBO SP
+http://209.222.97.92:16275
+#EXTINF:-1 group-title="FREE", GLOBO NEWS
+http://209.222.97.92:16436
+#EXTINF:-1 group-title="FREE", JOVEM PAN NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 group-title="FREE", PREMIERE CLUBES
+http://185.150.190.225:16460
+#EXTINF:-1 group-title="FREE", PREMIERE 000
+http://209.222.97.92:16482
+#EXTINF:-1 group-title="FREE", RECORD
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 group-title="FREE", RECORD NEWS
+http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FREE", REDE TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 group-title="FREE", SBT
+http://209.222.97.92:16176
+#EXTINF:-1 group-title="FREE", SPORTV
+http://209.222.97.92:16525
+
