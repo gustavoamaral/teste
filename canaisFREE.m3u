@@ -1,5 +1,6 @@
 #EXTM3U url-tvg = “http://epg.bz”
-#EXTINF:-1 tvg-name="BAND SP" group-title="ABERTOS", BAND https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-1 tvg-name="BAND SP" group-title="ABERTOS", BAND 
+https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:-1 tvg-name="BAND NEWS" group-title="NOTICIAS", BAND NEWS
 http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BAND SPORTS" group-title="ESPORTES", BAND SPORTS
@@ -14,13 +15,16 @@ http://209.222.97.92:16271
 http://209.222.97.92:16275
 #EXTINF:-1 tvg-name="GLOBO NEWS" group-title="NOTICIAS", GLOBO NEWS
 http://209.222.97.92:16436
-#EXTINF:-1 tvg-name="JOVEM PAN" group-title="NOTICIAS", JOVEM PAN NEWS https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN" group-title="NOTICIAS", JOVEM PAN NEWS 
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-name="PREMIERE CLUBES" group-title="ESPORTES", PREMIERE CLUBES
 http://185.150.190.225:16460
-#EXTINF:-1 tvg-name="RECORD RJ" group-title="ABERTOS", RECORD https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-name="RECORD RJ" group-title="ABERTOS", RECORD 
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-name="RECORD NEWS" group-title="NOTICIAS", RECORD NEWS
 http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="REDE TV" group-title="ABERTOS", REDE TV https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-name="REDE TV" group-title="ABERTOS", REDE TV 
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT SP" group-title="ABERTOS", SBT
 http://209.222.97.92:16176
 #EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES", SPORTV
