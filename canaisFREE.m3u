@@ -1,4 +1,3 @@
-#EXTM3U url-tvg = “http://epg.bz”
 #EXTINF:-1 tvg-name="BAND SP" group-title="ABERTOS", BAND 
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:-1 tvg-name="BAND NEWS" group-title="NOTICIAS", BAND NEWS
