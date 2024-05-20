@@ -1,11 +1,11 @@
 #EXTM3U url-tvg = “http://epg.bz”
-#EXTINF:-1 group-title="FREE", BAND
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries", BAND
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
-#EXTINF:-1 group-title="FREE", BAND NEWS
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",BAND NEWS
 http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FREE", BAND SPORTS
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",BAND SPORTS
 http://209.222.97.92:16484
-#EXTINF:-1 group-title="FREE", CNN BRASIL
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 group-title="FREE", COMBATE
 http://209.222.97.92:16493
