@@ -1,4 +1,4 @@
-n#EXTM3U url-tvg = “http://epg.bz”
+#EXTM3U url-tvg = “http://epg.bz”
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV SP HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="Canais | Rede Band", BAND
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",BAND NEWS
@@ -17,7 +17,7 @@ http://209.222.97.92:16271
 http://209.222.97.92:16275
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias", GLOBO NEWS
 http://209.222.97.92:16436
-#EXTINF:-1 tvg-id="jovempan.br" tvg-name="JOVEM PAN HD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias", JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN FHD [H265]" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="Canais | Premiere", PREMIERE CLUBES
 http://185.150.190.225:16460
