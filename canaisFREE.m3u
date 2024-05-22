@@ -28,3 +28,21 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 http://209.222.97.92:16176
 #EXTINF:-1 tvg-name="SPORTV" group-title="ESPORTES", SPORTV
 http://209.222.97.92:16525
+#EXTINF:-1 tvg-name="GLOBO SP" group-title="STATIC 199", GLOBO SP
+http://199.127.60.83:16020
+#EXTINF:-1 tvg-name="SBT HD" group-title="STATIC 199", SBT HD
+http://199.127.60.83:16170
+#EXTINF:-1 tvg-name="Viva" group-title="STATIC 199", Viva
+http://199.127.60.83:16884
+#EXTINF:-1 tvg-name="MEGAPIX" group-title="STATIC 199", MEGAPIX
+http://199.127.60.83:16048
+#EXTINF:-1 tvg-name="PARAMOUNT" group-title="STATIC 199", PARAMOUNT
+http://199.127.60.83:16058
+#EXTINF:-1 tvg-name="SONY" group-title="STATIC 199", SONY
+http://199.127.60.83:16063/
+#EXTINF:-1 tvg-name="FX" group-title="STATIC 199", FX
+http://199.127.60.83:16043/
+#EXTINF:-1 tvg-name="A&E" group-title="STATIC 199", A&E
+http://199.127.60.83:16002/
+#EXTINF:-1 tvg-name="AMC" group-title="STATIC 199", AMC
+http://199.127.60.83:16004
