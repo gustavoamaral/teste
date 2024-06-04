@@ -1,1 +1,18 @@
-
+#EXTINF:-1 group-title="FREE", BAND
+http://168.205.87.198:8555/live/4861/123456/19.ts
+#EXTINF:-1 group-title="FREE", CNN BRASIL
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 group-title="FREE", GLOBO BA
+http://63.143.42.10:14002
+#EXTINF:-1 group-title="FREE", GLOBO MG
+http://168.205.87.198:8555/live/4861/123456/70.ts
+#EXTINF:-1 group-title="FREE", JP NEWS
+http://168.205.87.198:8555/live/4861/123456/161.ts
+#EXTINF:-1 group-title="FREE", RECORD
+http://168.205.87.198:8555/live/4861/123456/96.ts
+#EXTINF:-1 group-title="FREE", RECORD NEWS
+http://168.205.87.198:8555/live/4861/123456/97.ts
+#EXTINF:-1 group-title="FREE", REDE TV
+http://168.205.87.198:8555/live/4861/123456/102.ts
+#EXTINF:-1 group-title="FREE", SBT
+http://168.205.87.198:8555/live/4861/123456/104.ts
