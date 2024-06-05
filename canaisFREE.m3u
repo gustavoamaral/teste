@@ -1,18 +1,68 @@
-#EXTINF:-1tvg-name="BAND" group-title="ABERTOS", BAND
+#EXTINF:-1 tvg-name="BAND" group-title="ABERTOS", BAND
 http://168.205.87.198:8555/live/4861/123456/19.ts
-#EXTINF:-1tvg-name="CNN BRASIL" group-title="NOTICIAS", CNN BRASIL
-http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1tvg-name="GLOBO BA" group-title="ABERTOS", GLOBO BA
+#EXTINF:-1 tvg-name="BAND BAHIA" group-title="ABERTOS", BAND BAHIA
+http://63.143.42.10:14094
+#EXTINF:-1 tvg-name="GLOBO BA" group-title="ABERTOS", GLOBO BA
 http://63.143.42.10:14002
-#EXTINF:-1tvg-name="GLOBO MG" group-title="ABERTOS", GLOBO MG
+#EXTINF:-1 tvg-name="GLOBO MG" group-title="ABERTOS", GLOBO MG
 http://168.205.87.198:8555/live/4861/123456/70.ts
-#EXTINF:-1tvg-name="JP NEWS" group-title="NOTICIAS", JP NEWS
-http://168.205.87.198:8555/live/4861/123456/161.ts
-#EXTINF:-1tvg-name="RECORD" group-title="ABERTOS", RECORD
+#EXTINF:-1 tvg-name="RECORD" group-title="ABERTOS", RECORD
 http://168.205.87.198:8555/live/4861/123456/96.ts
-#EXTINF:-1tvg-name="RECORD NEWS" group-title="NOTICIAS", RECORD NEWS
-http://168.205.87.198:8555/live/4861/123456/97.ts
-#EXTINF:-1tvg-name="REDE TV" group-title="ABERTOS", REDE TV
+#EXTINF:-1 tvg-name="REDE TV" group-title="ABERTOS", REDE TV
 http://168.205.87.198:8555/live/4861/123456/102.ts
-#EXTINF:-1tvg-name="SBT" group-title="ABERTOS", SBT
+#EXTINF:-1 tvg-name="SBT" group-title="ABERTOS", SBT
 http://168.205.87.198:8555/live/4861/123456/104.ts
+
+#EXTINF:-1 tvg-name="BAND NEWS" group-title="NOTICIAS", BAND NEWS
+http://138.255.0.30:80/BANDNEWS/index.m3u8
+#EXTINF:-1 tvg-name="CNN BRASIL" group-title="NOTICIAS", CNN BRASIL
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="JP NEWS" group-title="NOTICIAS", JP NEWS
+http://168.205.87.198:8555/live/4861/123456/161.ts
+#EXTINF:-1 tvg-name="RECORD NEWS" group-title="NOTICIAS", RECORD NEWS
+http://168.205.87.198:8555/live/4861/123456/97.ts
+
+#EXTINF:0 tvg-name="AMC" group-title="FILMES E SERIES", AMC
+http://cdn-2.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:0 tvg-name="TELECINE CULT" group-title="FILMES E SERIES", TELECINE CULT
+http://15.235.50.113:14014
+#EXTINF:0 tvg-name="TELECINE FUN" group-title="FILMES E SERIES", TELECINE FUN
+http://15.235.50.113:14017
+#EXTINF:0 tvg-name="TELECINE PIPOCA" group-title="FILMES E SERIES", TELECINE PIPOCA
+http://15.235.15.230:14004
+#EXTINF:0 tvg-name="TELECINE PREMIUM" group-title="FILMES E SERIES", TELECINE PREMIUM
+http://15.235.50.113:14007
+#EXTINF:0 tvg-name="TELECINE TOUCH" group-title="FILMES E SERIES", TELECINE TOUCH
+http://15.235.50.113:14012
+#EXTINF:0 tvg-name="TNT" group-title="FILMES E SERIES", TNT
+http://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:0 tvg-name="TNT SERIES" group-title="FILMES E SERIES", TNT SERIES
+https://cdn-2.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+
+#EXTINF:0 tvg-name="DISCOVERY CHANNEL" group-title="VARIEDADES", DISCOVERY CHANNEL
+http://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:0 tvg-name="DISCOVERY H&H" group-title="VARIEDADES", DISCOVERY H&H
+http://cdn-2.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:0 tvg-name="DISCOVERY SCIENCE" group-title="VARIEDADES", DISCOVERY SCIENCE
+http://cdn-2.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:0 tvg-name="DISCOVERY THEATER" group-title="VARIEDADES", DISCOVERY THEATER
+http://cdn-2.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:0 tvg-name="DISCOVERY WORLD" group-title="VARIEDADES", DISCOVERY WORLD
+http://cdn-2.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:0 tvg-name="PRIME VIDEO 1" group-title="FUTEBOL", ESPN
+http://63.143.42.10:14259
+#EXTINF:0 tvg-name="SPORTV" group-title="FUTEBOL", PARAMOUNT +
+http://63.143.42.10:14261
+#EXTINF:0 tvg-name="PRIME VIDEO 1" group-title="FUTEBOL", PRIME VIDEO 1
+http://63.143.42.10:14126
+#EXTINF:0 tvg-name="PRIME VIDEO 2" group-title="FUTEBOL", PRIME VIDEO 2
+http://63.143.42.10:14127
+#EXTINF:0 tvg-name="PRIME VIDEO 3" group-title="FUTEBOL", PRIME VIDEO 3
+http://63.143.42.10:14128
+#EXTINF:0 tvg-name="STAR +" group-title="FUTEBOL", STAR +
+http://63.143.42.10:14130
+#EXTINF:0 tvg-name="STAR + 2" group-title="FUTEBOL", STAR + 2
+http://63.143.42.10:14088
+#EXTINF:0 tvg-name="MAX" group-title="FUTEBOL", MAX
+http://63.143.42.10:14084
