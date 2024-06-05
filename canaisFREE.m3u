@@ -50,7 +50,7 @@ http://cdn-2.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:0 tvg-name="DISCOVERY WORLD" group-title="VARIEDADES", DISCOVERY WORLD
 http://cdn-2.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:0 tvg-name="PRIME VIDEO 1" group-title="FUTEBOL", ESPN
+#EXTINF:0 tvg-name="ESPN" group-title="FUTEBOL", ESPN
 http://63.143.42.10:14259
 #EXTINF:0 tvg-name="PARAMOUNT +" group-title="FUTEBOL", PARAMOUNT +
 http://63.143.42.10:14261
