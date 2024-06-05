@@ -1,18 +1,18 @@
-#EXTINF:-1 group-title="FREE", BAND
+#EXTINF:-1tvg-name="BAND" group-title="ABERTOS", BAND
 http://168.205.87.198:8555/live/4861/123456/19.ts
-#EXTINF:-1 group-title="FREE", CNN BRASIL
+#EXTINF:-1tvg-name="CNN BRASIL" group-title="NOTICIAS", CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 group-title="FREE", GLOBO BA
+#EXTINF:-1tvg-name="GLOBO BA" group-title="ABERTOS", GLOBO BA
 http://63.143.42.10:14002
-#EXTINF:-1 group-title="FREE", GLOBO MG
+#EXTINF:-1tvg-name="GLOBO MG" group-title="ABERTOS", GLOBO MG
 http://168.205.87.198:8555/live/4861/123456/70.ts
-#EXTINF:-1 group-title="FREE", JP NEWS
+#EXTINF:-1tvg-name="JP NEWS" group-title="NOTICIAS", JP NEWS
 http://168.205.87.198:8555/live/4861/123456/161.ts
-#EXTINF:-1 group-title="FREE", RECORD
+#EXTINF:-1tvg-name="RECORD" group-title="ABERTOS", RECORD
 http://168.205.87.198:8555/live/4861/123456/96.ts
-#EXTINF:-1 group-title="FREE", RECORD NEWS
+#EXTINF:-1tvg-name="RECORD NEWS" group-title="NOTICIAS", RECORD NEWS
 http://168.205.87.198:8555/live/4861/123456/97.ts
-#EXTINF:-1 group-title="FREE", REDE TV
+#EXTINF:-1tvg-name="REDE TV" group-title="ABERTOS", REDE TV
 http://168.205.87.198:8555/live/4861/123456/102.ts
-#EXTINF:-1 group-title="FREE", SBT
+#EXTINF:-1tvg-name="SBT" group-title="ABERTOS", SBT
 http://168.205.87.198:8555/live/4861/123456/104.ts
