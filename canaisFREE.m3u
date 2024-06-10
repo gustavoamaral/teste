@@ -1,3 +1,4 @@
+#EXTM3U url-tvg = “http://x2.rs/epg”
 #EXTINF:-1 tvg-name="BAND" group-title="ABERTOS", BAND
 http://168.205.87.198:8555/live/4861/123456/19.ts
 #EXTINF:-1 tvg-name="BAND BAHIA" group-title="ABERTOS", BAND BAHIA
@@ -22,36 +23,19 @@ http://168.205.87.198:8555/live/4861/123456/161.ts
 #EXTINF:-1 tvg-name="RECORD NEWS" group-title="NOTICIAS", RECORD NEWS
 http://168.205.87.198:8555/live/4861/123456/97.ts
 
-#EXTINF:0 tvg-name="AMC" group-title="FILMES E SERIES", AMC
-http://cdn-2.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-#EXTINF:0 tvg-name="TELECINE CULT" group-title="FILMES E SERIES", TELECINE CULT
-http://15.235.50.113:14014
-#EXTINF:0 tvg-name="TELECINE FUN" group-title="FILMES E SERIES", TELECINE FUN
-http://15.235.50.113:14017
-#EXTINF:0 tvg-name="TELECINE PIPOCA" group-title="FILMES E SERIES", TELECINE PIPOCA
-http://15.235.15.230:14004
-#EXTINF:0 tvg-name="TELECINE PREMIUM" group-title="FILMES E SERIES", TELECINE PREMIUM
-http://15.235.50.113:14007
-#EXTINF:0 tvg-name="TELECINE TOUCH" group-title="FILMES E SERIES", TELECINE TOUCH
-http://15.235.50.113:14012
-#EXTINF:0 tvg-name="TNT" group-title="FILMES E SERIES", TNT
-http://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:0 tvg-name="TNT SERIES" group-title="FILMES E SERIES", TNT SERIES
-https://cdn-2.nxplay.com.br/TNT_SERIES_TK/index.m3u8
-
-#EXTINF:0 tvg-name="DISCOVERY CHANNEL" group-title="VARIEDADES", DISCOVERY CHANNEL
-http://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-#EXTINF:0 tvg-name="DISCOVERY H&H" group-title="VARIEDADES", DISCOVERY H&H
-http://cdn-2.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-#EXTINF:0 tvg-name="DISCOVERY SCIENCE" group-title="VARIEDADES", DISCOVERY SCIENCE
-http://cdn-2.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-#EXTINF:0 tvg-name="DISCOVERY THEATER" group-title="VARIEDADES", DISCOVERY THEATER
-http://cdn-2.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
-#EXTINF:0 tvg-name="DISCOVERY WORLD" group-title="VARIEDADES", DISCOVERY WORLD
-http://cdn-2.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+http://63.143.42.10:14862
+#EXTINF:0 tvg-name="WARNER" group-title="FILMES E SERIES", WARNER
+http://63.143.42.10:14881
+#EXTINF:0 tvg-name="2 AND A HALF MEN" group-title="FILMES E SERIES", 2 AND A HALF MEN
+http://63.143.42.10:14980
 
 #EXTINF:0 tvg-name="ESPN" group-title="FUTEBOL", ESPN
 http://63.143.42.10:14259
+#EXTINF:0 tvg-name="CBFTV COPA BETANO 1" group-title="FUTEBOL", CBFTV COPA BETANO 1
+http://63.143.42.10:14129
+#EXTINF:0 tvg-name="CBFTV COPA BETANO 2" group-title="FUTEBOL", CBFTV COPA BETANO 2
+http://63.143.42.10:14130
 #EXTINF:0 tvg-name="PARAMOUNT +" group-title="FUTEBOL", PARAMOUNT +
 http://63.143.42.10:14261
 #EXTINF:0 tvg-name="PRIME VIDEO 1" group-title="FUTEBOL", PRIME VIDEO 1
@@ -66,3 +50,5 @@ http://63.143.42.10:14130
 http://63.143.42.10:14088
 #EXTINF:0 tvg-name="MAX" group-title="FUTEBOL", MAX
 http://63.143.42.10:14084
+#EXTINF:0 tvg-name="SPORTV" group-title="FUTEBOL", SPORTV
+http://63.143.42.10:14261
