@@ -7,6 +7,8 @@ http://63.143.42.10:14094
 http://63.143.42.10:14002
 #EXTINF:-1 tvg-name="GLOBO MG" group-title="ABERTOS", GLOBO MG
 http://168.205.87.198:8555/live/4861/123456/70.ts
+#EXTINF:-1 tvg-name="RECORD BA" group-title="ABERTOS", RECORD BA
+http://63.143.42.10:14057
 #EXTINF:-1 tvg-name="RECORD" group-title="ABERTOS", RECORD
 http://168.205.87.198:8555/live/4861/123456/96.ts
 #EXTINF:-1 tvg-name="REDE TV" group-title="ABERTOS", REDE TV
