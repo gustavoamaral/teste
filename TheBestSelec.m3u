@@ -169,6 +169,13 @@ http://tbest.live/31496971935/52246865996/156069
 http://tbest.live/31496971935/52246865996/156070
 
 
+
+#EXTINF:-1 type="stream" tvg-id="BANDNEWS FHD" tvg-logo="https://i.postimg.cc/bw8ck6Py/BAND-NEWS-FHD.png" group-title="NOTÍCIAS",BANDNEWS FHD
+http://tbest.live/31496971935/52246865996/156060
+#EXTINF:-1 type="stream" tvg-id="BANDNEWS HD" tvg-logo="https://i.postimg.cc/ZqKGDC0X/BAND-NEWS-HD.png" group-title="NOTÍCIAS",BANDNEWS HD
+http://tbest.live/31496971935/52246865996/156061
+#EXTINF:-1 type="stream" tvg-id="BANDNEWS SD" tvg-logo="https://i.postimg.cc/Jh6fwMk0/BAND-NEWS-SD.png" group-title="NOTÍCIAS",BANDNEWS SD
+http://tbest.live/31496971935/52246865996/156642
 #EXTINF:-1 type="stream" tvg-id="CNN BRASIL FHD" tvg-logo="https://i.postimg.cc/MK8XQkK8/CNN-FHD.png" group-title="NOTÍCIAS",CNN BRASIL FHD
 http://tbest.live/31496971935/52246865996/156071
 #EXTINF:-1 type="stream" tvg-id="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/3x8RtgvS/CNN-HD.png" group-title="NOTÍCIAS",CNN BRASIL HD
@@ -492,16 +499,6 @@ http://tbest.live/31496971935/52246865996/156059
 http://tbest.live/31496971935/52246865996/156371
 #EXTINF:-1 type="stream" tvg-id="BANDSPORTS SD" tvg-logo="https://i.postimg.cc/yNbbQjMS/BAND-SPORTS-SD.png" group-title="BAND",BANDSPORTS SD
 http://tbest.live/31496971935/52246865996/156643
-#EXTINF:-1 type="stream" tvg-id="BANDNEWS FHD" tvg-logo="https://i.postimg.cc/bw8ck6Py/BAND-NEWS-FHD.png" group-title="BAND",BANDNEWS FHD
-http://tbest.live/31496971935/52246865996/156060
-#EXTINF:-1 type="stream" tvg-id="BANDNEWS HD" tvg-logo="https://i.postimg.cc/ZqKGDC0X/BAND-NEWS-HD.png" group-title="BAND",BANDNEWS HD
-http://tbest.live/31496971935/52246865996/156061
-#EXTINF:-1 type="stream" tvg-id="BANDNEWS SD" tvg-logo="https://i.postimg.cc/Jh6fwMk0/BAND-NEWS-SD.png" group-title="BAND",BANDNEWS SD
-http://tbest.live/31496971935/52246865996/156642
-#EXTINF:-1 type="stream" tvg-id="BAND NEWS FM" tvg-logo="https://i.postimg.cc/Jh6fwMk0/BAND-NEWS-SD.png" group-title="BAND",BAND NEWS FM
-http://tbest.live/31496971935/52246865996/156905
-#EXTINF:-1 type="stream" tvg-id="BAND FM" tvg-logo="https://i.postimg.cc/kGrh94XJ/BAND-FM.png" group-title="BAND",BAND FM
-http://tbest.live/31496971935/52246865996/156904
 #EXTINF:-1 type="stream" tvg-id="BAND MG FHD" tvg-logo="https://i.postimg.cc/HnvWrN6f/BAND-FHD.png" group-title="BAND",BAND MG FHD
 http://tbest.live/31496971935/52246865996/156271
 #EXTINF:-1 type="stream" tvg-id="BAND MG HD" tvg-logo="https://i.postimg.cc/SNjNBysq/BAND-HD.png" group-title="BAND",BAND MG HD
