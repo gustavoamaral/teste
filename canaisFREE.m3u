@@ -1,14 +1,8 @@
 #EXTM3U url-tvg = “http://x2.rs/epg”
 #EXTINF:-1 tvg-name="BAND" group-title="ABERTOS", BAND
 http://168.205.87.198:8555/live/4861/123456/19.ts
-#EXTINF:-1 tvg-name="BAND BAHIA" group-title="ABERTOS", BAND BAHIA
-http://63.143.42.10:14094
-#EXTINF:-1 tvg-name="GLOBO BA" group-title="ABERTOS", GLOBO BA
-http://63.143.42.10:14002
 #EXTINF:-1 tvg-name="GLOBO MG" group-title="ABERTOS", GLOBO MG
 http://168.205.87.198:8555/live/4861/123456/70.ts
-#EXTINF:-1 tvg-name="RECORD BA" group-title="ABERTOS", RECORD BA
-http://63.143.42.10:14057
 #EXTINF:-1 tvg-name="RECORD" group-title="ABERTOS", RECORD
 http://168.205.87.198:8555/live/4861/123456/96.ts
 #EXTINF:-1 tvg-name="REDE TV" group-title="ABERTOS", REDE TV
@@ -16,35 +10,9 @@ http://168.205.87.198:8555/live/4861/123456/102.ts
 #EXTINF:-1 tvg-name="SBT" group-title="ABERTOS", SBT
 http://168.205.87.198:8555/live/4861/123456/104.ts
 
-#EXTINF:-1 tvg-name="BAND NEWS" group-title="NOTICIAS", BAND NEWS
-http://138.255.0.30:80/BANDNEWS/index.m3u8
 #EXTINF:-1 tvg-name="CNN BRASIL" group-title="NOTICIAS", CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="JP NEWS" group-title="NOTICIAS", JP NEWS
 http://168.205.87.198:8555/live/4861/123456/161.ts
 #EXTINF:-1 tvg-name="RECORD NEWS" group-title="NOTICIAS", RECORD NEWS
 http://168.205.87.198:8555/live/4861/123456/97.ts
-
-#EXTINF:0 tvg-name="TNT SERIES" group-title="FILMES E SERIES", TNT SERIES
-http://63.143.42.10:14862
-#EXTINF:0 tvg-name="WARNER" group-title="FILMES E SERIES", WARNER
-http://63.143.42.10:14881
-
-#EXTINF:0 tvg-name="ESPN" group-title="FUTEBOL", ESPN
-http://63.143.42.10:14259
-#EXTINF:0 tvg-name="PARAMOUNT +" group-title="FUTEBOL", PARAMOUNT +
-http://63.143.42.10:14261
-#EXTINF:0 tvg-name="PRIME VIDEO 1" group-title="FUTEBOL", PRIME VIDEO 1
-http://63.143.42.10:14126
-#EXTINF:0 tvg-name="PRIME VIDEO 2" group-title="FUTEBOL", PRIME VIDEO 2
-http://63.143.42.10:14127
-#EXTINF:0 tvg-name="PRIME VIDEO 3" group-title="FUTEBOL", PRIME VIDEO 3
-http://63.143.42.10:14128
-#EXTINF:0 tvg-name="STAR +" group-title="FUTEBOL", STAR +
-http://63.143.42.10:14130
-#EXTINF:0 tvg-name="STAR + 2" group-title="FUTEBOL", STAR + 2
-http://63.143.42.10:14088
-#EXTINF:0 tvg-name="MAX" group-title="FUTEBOL", MAX
-http://63.143.42.10:14084
-#EXTINF:0 tvg-name="SPORTV" group-title="FUTEBOL", SPORTV
-http://63.143.42.10:14261
