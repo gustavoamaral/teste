@@ -12,61 +12,35 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/71763.ts
 
 #EXTINF:-1 tvg-name="AMC 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="4K [FHDR]",AMC 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/90646.ts
-#EXTINF:-1 tvg-name="AMC BREAK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="PT: Filmes e Séries",AMC BREAK HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191202.ts
-#EXTINF:-1 tvg-name="AMC BREAK SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="PT: Filmes e Séries",AMC BREAK SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191201.ts
-#EXTINF:-1 tvg-name="AMC CRIME SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/AMC_Crime.svg/revision/latest/scale-to-width-down/300?cb=20220420114936" group-title="PT: Filmes e Séries",AMC CRIME SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191200.ts
+
+
 #EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Filmes e Séries",AMC FHD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71768.ts
-#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PT: Filmes e Séries",AMC FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191199.ts
 #EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Filmes e Séries",AMC FHD [H265]
 http://acsb.sh:80/D64VcuE766/311RASkzm/71769.ts
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Filmes e Séries",AMC HD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71770.ts
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PT: Filmes e Séries",AMC HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191198.ts
 #EXTINF:-1 tvg-name="AMC SD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Filmes e Séries",AMC SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71771.ts
-#EXTINF:-1 tvg-name="AMC SD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PT: Filmes e Séries",AMC SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191197.ts
+
 
 #EXTINF:-1 tvg-name="AXN 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="4K [FHDR]",AXN 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/90645.ts
 #EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Filmes e Séries",AXN FHD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71781.ts
-#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="PT: Filmes e Séries",AXN FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191212.ts
 #EXTINF:-1 tvg-name="AXN FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Filmes e Séries",AXN FHD [H265]
 http://acsb.sh:80/D64VcuE766/311RASkzm/71782.ts
 #EXTINF:-1 tvg-name="AXN FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Legendados",AXN FHD [LEG]
 http://acsb.sh:80/D64VcuE766/311RASkzm/90716.ts
 #EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Filmes e Séries",AXN HD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71783.ts
-#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="PT: Filmes e Séries",AXN HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191211.ts
 #EXTINF:-1 tvg-name="AXN HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Legendados",AXN HD [LEG]
 http://acsb.sh:80/D64VcuE766/311RASkzm/90715.ts
-#EXTINF:-1 tvg-name="AXN MOVIES FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="PT: Filmes e Séries",AXN MOVIES FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191218.ts
-#EXTINF:-1 tvg-name="AXN MOVIES SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="PT: Filmes e Séries",AXN MOVIES SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191216.ts
-#EXTINF:-1 tvg-name="AXN MOVIES [H265]" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="PT: Filmes e Séries",AXN MOVIES [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191217.ts
 #EXTINF:-1 tvg-name="AXN SD" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Filmes e Séries",AXN SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71784.ts
-#EXTINF:-1 tvg-name="AXN SD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="PT: Filmes e Séries",AXN SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191210.ts
 #EXTINF:-1 tvg-name="AXN SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Legendados",AXN SD [LEG]
 http://acsb.sh:80/D64VcuE766/311RASkzm/90714.ts
-#EXTINF:-1 tvg-name="AXN WHITE FHD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="PT: Filmes e Séries",AXN WHITE FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191215.ts
-#EXTINF:-1 tvg-name="AXN WHITE HD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="PT: Filmes e Séries",AXN WHITE HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191214.ts
-#EXTINF:-1 tvg-name="AXN WHITE SD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="PT: Filmes e Séries",AXN WHITE SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191213.ts
+
 
 #EXTINF:-1 tvg-name="BAND News 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="4K [FHDR]",Band News 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/103526.ts
@@ -137,29 +111,18 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/71838.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/71839.ts
 #EXTINF:-1 tvg-name="CNN Brasil SD" tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="Notícias",CNN Brasil SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71840.ts
-#EXTINF:-1 tvg-name="CNN FHD" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="PT: Noticias",CNN FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191156.ts
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="PT: Noticias",CNN HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191155.ts
-#EXTINF:-1 tvg-name="CNN SD" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="PT: Noticias",CNN SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191154.ts
+
 
 #EXTINF:-1 tvg-name="COMBATE 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="4K [FHDR]",Combate 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/71844.ts
 #EXTINF:-1 tvg-name="COMBATE FHD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Esportes",Combate FHD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71842.ts
-#EXTINF:-1 tvg-name="COMBATE FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PT: Esportes",COMBATE FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191320.ts
 #EXTINF:-1 tvg-name="COMBATE FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Esportes",Combate FHD [H265]
 http://acsb.sh:80/D64VcuE766/311RASkzm/71843.ts
 #EXTINF:-1 tvg-name="COMBATE HD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Esportes",Combate HD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71845.ts
-#EXTINF:-1 tvg-name="COMBATE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PT: Esportes",COMBATE HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191319.ts
 #EXTINF:-1 tvg-name="COMBATE SD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Esportes",Combate SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71846.ts
-#EXTINF:-1 tvg-name="COMBATE SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PT: Esportes",COMBATE SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191318.ts
 
 #EXTINF:-1 tvg-name="DISCOVERY Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="4K [FHDR]",Discovery Channel 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/71864.ts
@@ -169,8 +132,6 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/71862.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/71863.ts
 #EXTINF:-1 tvg-name="DISCOVERY Channel HD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Documentários",Discovery Channel HD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71865.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="PT: Documentarios",DISCOVERY CHANNEL HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191363.ts
 #EXTINF:-1 tvg-name="DISCOVERY Channel SD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Documentários",Discovery Channel SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71866.ts
 #EXTINF:-1 tvg-name="DISCOVERY H&H 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="4K [FHDR]",Discovery H&H 4K FHDR
@@ -183,18 +144,6 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/71868.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/71869.ts
 #EXTINF:-1 tvg-name="DISCOVERY H&H SD" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Variedades",Discovery H&H SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71870.ts
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/ID/logo.png" group-title="PT: Documentarios",DISCOVERY ID
-http://acsb.sh:80/D64VcuE766/311RASkzm/191367.ts
-#EXTINF:-1 tvg-name="DISCOVERY Kids 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="4K [FHDR]",Discovery Kids 4K FHDR
-http://acsb.sh:80/D64VcuE766/311RASkzm/90250.ts
-#EXTINF:-1 tvg-name="DISCOVERY Kids FHD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Infantis",Discovery Kids FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71871.ts
-#EXTINF:-1 tvg-name="DISCOVERY Kids FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Infantis",Discovery Kids FHD [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/71872.ts
-#EXTINF:-1 tvg-name="DISCOVERY Kids HD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Infantis",Discovery Kids HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71873.ts
-#EXTINF:-1 tvg-name="DISCOVERY Kids SD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Infantis",Discovery Kids SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71874.ts
 #EXTINF:-1 tvg-name="DISCOVERY Science 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="4K [FHDR]",Discovery Science 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/103511.ts
 #EXTINF:-1 tvg-name="DISCOVERY Science FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Documentários",Discovery Science FHD
@@ -236,6 +185,16 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/71889.ts
 #EXTINF:-1 tvg-name="DISCOVERY World SD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Documentários",Discovery World SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71890.ts
 
+#EXTINF:-1 tvg-name="ESPN 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnbrasil.png" group-title="4K [FHDR]",ESPN 4K FHDR
+http://acsb.sh:80/D64VcuE766/311RASkzm/90640.ts
+#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="ESPN",ESPN FHD
+http://acsb.sh:80/D64VcuE766/311RASkzm/71911.ts
+#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="ESPN",ESPN FHD [H265]
+http://acsb.sh:80/D64VcuE766/311RASkzm/71912.ts
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="ESPN",ESPN HD
+http://acsb.sh:80/D64VcuE766/311RASkzm/71913.ts
+#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="ESPN",ESPN SD
+http://acsb.sh:80/D64VcuE766/311RASkzm/71914.ts
 #EXTINF:-1 tvg-name="ESPN 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="4K [FHDR]",ESPN 2 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/71921.ts
 #EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="ESPN",ESPN 2 FHD
@@ -266,26 +225,6 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/71958.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/71960.ts
 #EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="https://acstatic.co/logos/canais/foxsports1.png" group-title="ESPN",ESPN 4 SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71961.ts
-#EXTINF:-1 tvg-name="ESPN 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnbrasil.png" group-title="4K [FHDR]",ESPN 4K FHDR
-http://acsb.sh:80/D64VcuE766/311RASkzm/90640.ts
-#EXTINF:-1 tvg-name="ESPN 6 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="4K [FHDR]",ESPN 6 4K FHDR
-http://acsb.sh:80/D64VcuE766/311RASkzm/103505.ts
-#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71915.ts
-#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 FHD [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/71916.ts
-#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71917.ts
-#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71918.ts
-#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="ESPN",ESPN FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71911.ts
-#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="ESPN",ESPN FHD [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/71912.ts
-#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="ESPN",ESPN HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71913.ts
-#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="ESPN",ESPN SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/71914.ts
 #EXTINF:-1 tvg-name="ESPN 5 FHDR" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="4K [FHDR]",ESPN 5 FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/71954.ts
 #EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="ESPN",ESPN 5 FHD
@@ -296,6 +235,17 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/71953.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/71955.ts
 #EXTINF:-1 tvg-name="ESPN 5 SD" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="ESPN",ESPN 5 SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/71956.ts
+#EXTINF:-1 tvg-name="ESPN 6 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="4K [FHDR]",ESPN 6 4K FHDR
+http://acsb.sh:80/D64VcuE766/311RASkzm/103505.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 FHD
+http://acsb.sh:80/D64VcuE766/311RASkzm/71915.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 FHD [H265]
+http://acsb.sh:80/D64VcuE766/311RASkzm/71916.ts
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 HD
+http://acsb.sh:80/D64VcuE766/311RASkzm/71917.ts
+#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="ESPN",ESPN 6 SD
+http://acsb.sh:80/D64VcuE766/311RASkzm/71918.ts
+
 
 #EXTINF:-1 tvg-name="COPA DO BRASIL 1 FHD" tvg-logo="http://imagecdn.sh:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Prime Video",Copa do Brasil 1 FHD
 http://acsb.sh:80/D64VcuE766/311RASkzm/150498.ts
@@ -766,6 +716,16 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/218827.ts
 #EXTINF:-1 tvg-name="GLOBO Rede Macapa FHD" tvg-logo="http://imagecdn.sh:80/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Globo",Globo Rede Macapa FHD
 http://acsb.sh:80/D64VcuE766/311RASkzm/218829.ts
 
+#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="HBO",HBO FHD
+http://acsb.sh:80/D64VcuE766/311RASkzm/72118.ts
+#EXTINF:-1 tvg-name="HBO FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="HBO",HBO FHD [H265]
+http://acsb.sh:80/D64VcuE766/311RASkzm/72119.ts
+#EXTINF:-1 tvg-name="HBO FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Legendados",HBO FHD [LEG]
+http://acsb.sh:80/D64VcuE766/311RASkzm/90698.ts
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="HBO",HBO HD
+http://acsb.sh:80/D64VcuE766/311RASkzm/72120.ts
+#EXTINF:-1 tvg-name="HBO HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Legendados",HBO HD [LEG]
+http://acsb.sh:80/D64VcuE766/311RASkzm/90697.ts
 #EXTINF:-1 tvg-name="HBO 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="4K [FHDR]",HBO 2 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/90246.ts
 #EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="HBO",HBO 2 FHD
@@ -788,16 +748,6 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/72115.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/72116.ts
 #EXTINF:-1 tvg-name="HBO Family SD" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" group-title="HBO",HBO Family SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/72117.ts
-#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="HBO",HBO FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/72118.ts
-#EXTINF:-1 tvg-name="HBO FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="HBO",HBO FHD [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/72119.ts
-#EXTINF:-1 tvg-name="HBO FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Legendados",HBO FHD [LEG]
-http://acsb.sh:80/D64VcuE766/311RASkzm/90698.ts
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="HBO",HBO HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/72120.ts
-#EXTINF:-1 tvg-name="HBO HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Legendados",HBO HD [LEG]
-http://acsb.sh:80/D64VcuE766/311RASkzm/90697.ts
 #EXTINF:-1 tvg-name="HBO MUNDI 4K FHDR" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="4K [FHDR]",HBO MUNDI 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/103496.ts
 #EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="HBO",HBO Mundi FHD
@@ -846,8 +796,6 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/90688.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/72132.ts
 #EXTINF:-1 tvg-name="HBO Pop SD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Legendados",HBO Pop SD [LEG]
 http://acsb.sh:80/D64VcuE766/311RASkzm/90687.ts
-#EXTINF:-1 tvg-name="HBO PORTUGAL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo.png" group-title="PT: Filmes e Séries",HBO PORTUGAL HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191205.ts
 #EXTINF:-1 tvg-name="HBO SD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="HBO",HBO SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/72133.ts
 #EXTINF:-1 tvg-name="HBO SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Legendados",HBO SD [LEG]
@@ -1001,6 +949,16 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/72219.ts
 #EXTINF:-1 tvg-name="PARAMOUNT Channel SD" tvg-logo="https://acstatic.co/logos/canais/paramount.png" group-title="Filmes e Séries",Paramount Channel SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/72220.ts
 
+#EXTINF:-1 tvg-name="PREMIERE Clubes 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="4K [FHDR]",Premiere Clubes 4K FHDR
+http://acsb.sh:80/D64VcuE766/311RASkzm/72264.ts
+#EXTINF:-1 tvg-name="PREMIERE Clubes FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes FHD
+http://acsb.sh:80/D64VcuE766/311RASkzm/72262.ts
+#EXTINF:-1 tvg-name="PREMIERE Clubes FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes FHD [H265]
+http://acsb.sh:80/D64VcuE766/311RASkzm/72263.ts
+#EXTINF:-1 tvg-name="PREMIERE Clubes HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes HD
+http://acsb.sh:80/D64VcuE766/311RASkzm/72265.ts
+#EXTINF:-1 tvg-name="PREMIERE Clubes SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes SD
+http://acsb.sh:80/D64VcuE766/311RASkzm/72266.ts
 #EXTINF:-1 tvg-name="PREMIERE 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="4K [FHDR]",Premiere 2 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/103482.ts
 #EXTINF:-1 tvg-name="PREMIERE 2 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere 2 FHD
@@ -1071,16 +1029,7 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/180161.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/180159.ts
 #EXTINF:-1 tvg-name="PREMIERE 8 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere 8 SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/180160.ts
-#EXTINF:-1 tvg-name="PREMIERE Clubes 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="4K [FHDR]",Premiere Clubes 4K FHDR
-http://acsb.sh:80/D64VcuE766/311RASkzm/72264.ts
-#EXTINF:-1 tvg-name="PREMIERE Clubes FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/72262.ts
-#EXTINF:-1 tvg-name="PREMIERE Clubes FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes FHD [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/72263.ts
-#EXTINF:-1 tvg-name="PREMIERE Clubes HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/72265.ts
-#EXTINF:-1 tvg-name="PREMIERE Clubes SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Premiere",Premiere Clubes SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/72266.ts
+
 
 #EXTINF:-1 tvg-name="RECORD News 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="4K [FHDR]",Record News 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/178523.ts
@@ -1212,71 +1161,18 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/72320.ts
 #EXTINF:-1 tvg-name="SPACE SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="Legendados",Space SD [LEG]
 http://acsb.sh:80/D64VcuE766/311RASkzm/90675.ts
 
-#EXTINF:-1 tvg-name="SPORT TV + HD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PT: Esportes",SPORT TV + HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191239.ts
-#EXTINF:-1 tvg-name="SPORT TV + FHD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PT: Esportes",SPORT TV + FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191240.ts
-#EXTINF:-1 tvg-name="SPORT TV + SD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PT: Esportes",SPORT TV + SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191238.ts
-#EXTINF:-1 tvg-name="SPORT TV + [H265]" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PT: Esportes",SPORT TV + [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191241.ts
-#EXTINF:-1 tvg-name="SPORT TV 1 4K" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PT: Esportes",SPORT TV 1 4K
-http://acsb.sh:80/D64VcuE766/311RASkzm/191245.ts
-#EXTINF:-1 tvg-name="SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PT: Esportes",SPORT TV 1 FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191244.ts
-#EXTINF:-1 tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PT: Esportes",SPORT TV 1 HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191243.ts
-#EXTINF:-1 tvg-name="SPORT TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PT: Esportes",SPORT TV 1 SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191242.ts
-#EXTINF:-1 tvg-name="SPORT TV 1 [H265]" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PT: Esportes",SPORT TV 1 [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191246.ts
-#EXTINF:-1 tvg-name="SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PT: Esportes",SPORT TV 2 FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191249.ts
-#EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PT: Esportes",SPORT TV 2 HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191248.ts
-#EXTINF:-1 tvg-name="SPORT TV 2 SD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PT: Esportes",SPORT TV 2 SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191247.ts
-#EXTINF:-1 tvg-name="SPORT TV 2 [H265]" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PT: Esportes",SPORT TV 2 [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191250.ts
-#EXTINF:-1 tvg-name="SPORT TV 3 FHD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PT: Esportes",SPORT TV 3 FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191253.ts
-#EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PT: Esportes",SPORT TV 3 HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191252.ts
-#EXTINF:-1 tvg-name="SPORT TV 3 SD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PT: Esportes",SPORT TV 3 SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191251.ts
-#EXTINF:-1 tvg-name="SPORT TV 3 [H265]" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PT: Esportes",SPORT TV 3 [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191254.ts
-#EXTINF:-1 tvg-name="SPORT TV 4 FHD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PT: Esportes",SPORT TV 4 FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191257.ts
-#EXTINF:-1 tvg-name="SPORT TV 4 HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PT: Esportes",SPORT TV 4 HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191256.ts
-#EXTINF:-1 tvg-name="SPORT TV 4 SD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PT: Esportes",SPORT TV 4 SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191255.ts
-#EXTINF:-1 tvg-name="SPORT TV 4 [H265]" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PT: Esportes",SPORT TV 4 [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191258.ts
-#EXTINF:-1 tvg-name="SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PT: Esportes",SPORT TV 5 FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191261.ts
-#EXTINF:-1 tvg-name="SPORT TV 5 HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PT: Esportes",SPORT TV 5 HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191260.ts
-#EXTINF:-1 tvg-name="SPORT TV 5 SD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PT: Esportes",SPORT TV 5 SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191259.ts
-#EXTINF:-1 tvg-name="SPORT TV 5 [H265]" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PT: Esportes",SPORT TV 5 [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191262.ts
-#EXTINF:-1 tvg-name="SPORT TV 6 FHD" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" group-title="PT: Esportes",SPORT TV 6 FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191264.ts
-#EXTINF:-1 tvg-name="SPORT TV 6 HD" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" group-title="PT: Esportes",SPORT TV 6 HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191263.ts
-#EXTINF:-1 tvg-name="SPORT TV 6 [H265]" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" group-title="PT: Esportes",SPORT TV 6 [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191265.ts
-#EXTINF:-1 tvg-name="SPORT TV NBA FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="PT: Esportes",SPORT TV NBA FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191268.ts
-#EXTINF:-1 tvg-name="SPORT TV NBA HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="PT: Esportes",SPORT TV NBA HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191267.ts
-#EXTINF:-1 tvg-name="SPORT TV NBA SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="PT: Esportes",SPORT TV NBA SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/191266.ts
-#EXTINF:-1 tvg-name="SPORT TV NBA [H265]" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="PT: Esportes",SPORT TV NBA [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/191269.ts
-
+#EXTINF:-1 tvg-name="SporTV 4K [H265]" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV 4K [H265]
+http://acsb.sh:80/D64VcuE766/311RASkzm/187829.ts
+#EXTINF:-1 tvg-name="SporTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="4K [FHDR]",SporTV 4K FHDR
+http://acsb.sh:80/D64VcuE766/311RASkzm/131188.ts
+#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
+http://acsb.sh:80/D64VcuE766/311RASkzm/72329.ts
+#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV FHD [H265]
+http://acsb.sh:80/D64VcuE766/311RASkzm/72330.ts
+#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV HD
+http://acsb.sh:80/D64VcuE766/311RASkzm/72332.ts
+#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV SD
+http://acsb.sh:80/D64VcuE766/311RASkzm/131132.ts
 #EXTINF:-1 tvg-name="SporTV 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="4K [FHDR]",SporTV 2 4K FHDR
 http://acsb.sh:80/D64VcuE766/311RASkzm/103472.ts
 #EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
@@ -1295,18 +1191,6 @@ http://acsb.sh:80/D64VcuE766/311RASkzm/72326.ts
 http://acsb.sh:80/D64VcuE766/311RASkzm/131113.ts
 #EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="https://acstatic.co/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
 http://acsb.sh:80/D64VcuE766/311RASkzm/131108.ts
-#EXTINF:-1 tvg-name="SporTV 4K [H265]" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV 4K [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/187829.ts
-#EXTINF:-1 tvg-name="SporTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="4K [FHDR]",SporTV 4K FHDR
-http://acsb.sh:80/D64VcuE766/311RASkzm/131188.ts
-#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
-http://acsb.sh:80/D64VcuE766/311RASkzm/72329.ts
-#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV FHD [H265]
-http://acsb.sh:80/D64VcuE766/311RASkzm/72330.ts
-#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV HD
-http://acsb.sh:80/D64VcuE766/311RASkzm/72332.ts
-#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="SporTV",SporTV SD
-http://acsb.sh:80/D64VcuE766/311RASkzm/131132.ts
 #EXTINF:-1 tvg-name="SporTV 4 FHD" tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="SporTV",SporTV 4 FHD
 http://acsb.sh:80/D64VcuE766/311RASkzm/276089.ts
 #EXTINF:-1 tvg-name="SporTV 4 HD" tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="SporTV",SporTV 4 HD
